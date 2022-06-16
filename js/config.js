@@ -25,7 +25,7 @@ var respecConfig = {
     // the url in the header thisVersion is generated like `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<specStatus>-<specType.toLowerCase()>-<conf.shortName>}-conf.publishDate>/`
     pubDomain: "bomos",
     // The specification's "short name", which is the name used in NL_Respec URLs
-    shortName: "aanvullend",
+    shortName: "linkeddata",
 
     // A YYYY-MM-DD date. The publication date of the present document.
     // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
@@ -61,19 +61,9 @@ var respecConfig = {
   ],
   authors: [
     {
-      name: "Erwin Folmer",
-      company: "Universiteit Twente",
-      companyURL: "https://www.utwente.nl/",
-    },
-    {
       name: "Wouter van den Berg",
       company: "TNO",
       companyURL: "https://www.tno.nl/",
-    },
-    {
-      name: "Sander Boer",
-      company: "Logius",
-      companyURL: "http://www.logius.nl/",
     }
   ],
   // shortName = korte naam voor in de url van het document, gebruik alleen letters, cijfers en eventueel '-'
@@ -88,7 +78,7 @@ var respecConfig = {
   alternateFormats: [
     {
       label: "pdf",
-      uri: "BOMOS-Aanvullende-modules.pdf",
+      uri: "BOMOS-LinkedData.pdf",
     },
   ],
   // url van de issue lijst in de github repository waar je in werkt

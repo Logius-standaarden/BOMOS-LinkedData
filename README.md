@@ -1,7 +1,7 @@
 # BOMOS
 
-[Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Aanvullende-Modules/index.html)
+[Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-LinkedData/index.html)
 
-[Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Aanvullende-Modules/snapshot.html)
+[Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-LinkedData/snapshot.html)
 
-[PDF versie](https://logius-standaarden.github.io/BOMOS-Aanvullende-Modules/BOMOS-Aanvullende-modules.pdf)
+[PDF versie](https://logius-standaarden.github.io/BOMOS-LinkedData/BOMOS-LinkedData.pdf)
