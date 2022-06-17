@@ -37,7 +37,7 @@ Tot slot worden Linked Data technologiën steeds meer toegepast in de processen 
 ## De FAIR-beweging
 De hoeveelheden data waar wetenschappers en andere data-analyisten mee te maken hebben blijven groeien. Daarmee groeit ook de vraag naar meer machine-ondersteuning bij verwerking en analyse van die data. Maar hier bestond simpelweg de benodigde data-infrastructuur niet voor. De FAIR Data Principes is een reactie op dit gemis. FAIR staat voor een set richtlijnen om data meer vindbaar (**F**indable), toegankelijk (**A**ccesible), **I**nteroperabel en herbruikbaar (**R**eusable) te maken. De nadruk van FAIR ligt op het vergroten van het vermogen van machines om data automatisch te vinden en te gebruiken.
 
-De FAIR-principes zijn in 2016 in een wetenschappelijk artikel geÃƒÂ¯ntroduceerd. De FAIR-beweging is daarna in korte tijd flink in kracht toegenomen. Zo spraken de leiders van de G20 in hetzelfde jaar hun steun uit voor FAIR, en richtten Duitsland, Nederland en Frankrijk in 2017 samen het GO FAIR initiatief op.
+De FAIR-principes zijn in 2016 in een wetenschappelijk artikel geïntroduceerd. De FAIR-beweging is daarna in korte tijd flink in kracht toegenomen. Zo spraken de leiders van de G20 in hetzelfde jaar hun steun uit voor FAIR, en richtten Duitsland, Nederland en Frankrijk in 2017 samen het GO FAIR initiatief op.
 
 De *I* in FAIR onderstreept het belang van geautomatiseerde data-interoperabiliteit. Het doel is het bereiken en bewaken van interoperabiliteit, zelfs wanneer gegevens in een heel ander formaat, in verschillende talen en in verschillende onderzoeksdomeinen zijn gemaakt. De link tussen FAIR en Linked Data is hier heel sterk. Dat blijkt uit de drie FAIR-principes die onder de *I* van *Interoperability* vallen:
 
@@ -48,9 +48,8 @@ De *I* in FAIR onderstreept het belang van geautomatiseerde data-interoperabilit
 Voor het implementeren van de Interoperability principes van FAIR wordt veel gebruik gemaakt van ontologiën (voor punt 1) en andere Linked Data standaarden (voor punten 2 en 3).
 
 Links:  
-https://www.nature.com/articles/sdata201618 (*het* wetenschappelijk artikel over FAIR)  
-https://www.go-fair.org/fair-principles/ (de FAIR-principes)
-
+- [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618), Nature, 2016, *het* wetenschappelijk artikel over FAIR
+- [FAIR Principles](https://www.go-fair.org/fair-principles/), GO FAIR Initiative, de FAIR-principes
 
 ## Waarom Linked Data?
 Linked Data maakt het mogelijk om rijke datasets te delen en gecontroleerd open te stellen zonder dat de die dataset de bron hoeft te verlaten. De Europeana Collections zijn hier een voorbeeld van. Niet alleen de data binnen zo een dataset is gelinkt, ook de datasets onderling zijn dat. Met een query-taal als SPARQL wordt het vervolgens mogelijk om de hele set van datasets te bevragen. Dit is waar de visie van het Semantische Web over gaat. Hoe meer Linked Data, hoe krachtiger de query's die mogelijk worden.  
