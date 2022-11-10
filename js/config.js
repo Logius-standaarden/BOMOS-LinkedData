@@ -19,7 +19,7 @@ var respecConfig = {
     // AL: "Algemeen"
     // BD: "Beheerdocumentatie"
     // BP: "Best Practice"
-    specType: "ST",
+    specType: "HR",
 
     // The specification's publish domain, which is used to publish the specification
     // the url in the header thisVersion is generated like `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<specStatus>-<specType.toLowerCase()>-<conf.shortName>}-conf.publishDate>/`
@@ -30,7 +30,7 @@ var respecConfig = {
     // A YYYY-MM-DD date. The publication date of the present document.
     // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
     // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
-    publishDate: "2020-04-05",
+    publishDate: "2022-06-07",
 
     // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
     //previousPublishDate: "2017-09-20",
@@ -88,7 +88,7 @@ var respecConfig = {
   nl_markdownTableClass: "dkkvs",
   nl_markdownEmbedImageInFigure: true,
   nl_organisationStylesURL: "https://publicatie.centrumvoorstandaarden.nl/respec/style/",
-  nl_organisationPublishURL: "https://publicatie.centrumvoorstandaarden.nl/",
+  nl_organisationPublishURL: "https://gitdocumentatie.logius.nl/publicatie/",
   nl_logo: {
     src: "https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/figure-logius.svg",
     //src: "http://localhost:8081/respec/style/logos/figure-logius.svg",
