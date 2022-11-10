@@ -49,9 +49,9 @@ var respecConfig = {
   maxTocLevel: 3,
   editors: [
     {
-      name: "Erwin Folmer",
-      company: "Universiteit Twente",
-      companyURL: "https://www.utwente.nl/",
+      name: "Gül Işik",
+      company: "Logius",
+      companyURL: "https://www.logius.nl/",
     },
     {
       name: "Edwin Wisse",
