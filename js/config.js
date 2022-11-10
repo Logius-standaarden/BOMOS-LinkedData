@@ -50,7 +50,7 @@ var respecConfig = {
   editors: [
     {
       name: "Erwin Folmer",
-      company: "Kadaster",
+      company: "Universiteit Twente",
       companyURL: "https://www.utwente.nl/",
     },
     {
