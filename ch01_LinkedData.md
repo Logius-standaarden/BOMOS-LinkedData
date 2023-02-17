@@ -119,7 +119,7 @@ Hier zijn een aantal hulpmiddelen die voor beheerders van gemeenschappelijke ont
 | [Protégé](https://protege.stanford.edu/)                                     | Stanford University School of Medicine | Ontology editor (gratis en open source)                                               |
 | [Semantic Treehouse](https://www.semantic-treehouse.nl/)                     | TNO                                    | Publicatie- en beheeromgeving voor gezamenlijke ontologiën en andere datamodellen     |
 | [TopBraid Composer](https://www.topquadrant.com/products/TopBraid-composer/) | TopQuadrant                            | Integrated Development Environment (IDE) voor Semantic Web, inclusief ontology editor |
-| [VocBench](https://ec.europa.eu/isa2/isa2conf18/VocBench-3_en)               | EU Publicatiebureau                    | Open-source publicatie- en beheeromgeving van meertalige vocabulaires                 |
+| [VocBench](https://op.europa.eu/en/web/eu-vocabularies/vocbench)               | EU Publicatiebureau                    | Open-source publicatie- en beheeromgeving van meertalige vocabulaires                 |
 | [Matey](https://rml.io/yarrrml/matey/)               | Universiteit Gent | Matey is een browsergebaseerde editor waarmee je YARRRML-regels kunt schrijven.                |
 
 ### NeoNeoLogism
