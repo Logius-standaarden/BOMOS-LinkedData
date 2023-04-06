@@ -12,7 +12,7 @@ var respecConfig = {
       { 
         "company" : "Logius",
         "companyURL" : "https://www.logius.nl/",
-        "name" : "GÃ¼l IÅŸik"
+        "name" : "Gül Işik"
       },
       { 
         "company" : "Logius",
