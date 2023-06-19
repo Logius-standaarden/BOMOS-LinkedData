@@ -43,6 +43,8 @@ iets opgenomen wordt als BOMOS aanvullende module.
   het specifieke gebruik van Linked Data voor semantische standaarden.
 -	Invulling van [BOMOS voor het beheer van afsprakenstelsel](https://logius-standaarden.github.io/BOMOS-Stelsels): het gebruik van BOMOS in de specifieke situatie rond stelsels.
 
+De aanvullende modules zijn nauw verbonden met BOMOS en hebben tegelijkertijd een eigen governancestructuur. Zo wordt er binnen de context van het bredere BOMOS-kader duidelijk gemaakt dat de genoemde modules hun eigen governancestructuur hebben. Dit biedt transparantie en verduidelijking aan de betrokken partijen en stakeholders, zodat zij begrijpen dat hoewel er een verbinding bestaat met BOMOS, deze modules afzonderlijk worden beheerd en bestuurd.
+
 ## Leeswijzer
 
 Bent u vanuit een beleidsmakende of besturende rol alleen op
