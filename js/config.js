@@ -28,6 +28,6 @@ var respecConfig = {
   publishDate: "2022-06-07",
   publishVersion: "3.0.0",
   shortName: "linkeddata",
-  specStatus: "WV",
+  specStatus: "DEF",
   specType: "HR"
 };
