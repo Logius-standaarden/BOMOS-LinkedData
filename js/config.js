@@ -22,12 +22,11 @@ var respecConfig = {
     ],
   github: "https://github.com/Logius-standaarden/BOMOS-LinkedData",
   maxTocLevel: 3,
-  nl_markdownTableClass: "dkkvs",
   previousMaturity: "DEF",
   pubDomain: "bomos",
   publishDate: "2022-06-07",
   publishVersion: "3.0.0",
-  shortName: "linkeddata",
+  shortName: "linkeddata/en",
   specStatus: "DEF",
   specType: "HR"
 };
