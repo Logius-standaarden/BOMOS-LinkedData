@@ -11,7 +11,7 @@ The purpose of this publication is to assist organisations in compiling and impr
 
 Thes specific questions were the original reason for drawing up the Management and Development Model for Open Standards (BOMOS) with its best practice guidelines for an open structure for management. Since that time, BOMOS has been used in practice, and users have expressed the need to share more knowledge and experience with the management of standards.  Other issues such as improving interoperability based on standards, transparency and the manageability of standards have been added. Finally BOMOS is now used as the common language in the world of standardisation.
 
-## BOMOS structure
+## BOMOS Structure
 BOMOS consists of:
 * BOMOS Part 1: [The Foundation](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/en/)
 * BOMOS Part 2: [The Substantiation](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/en/)

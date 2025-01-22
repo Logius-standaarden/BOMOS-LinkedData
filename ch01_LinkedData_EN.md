@@ -14,7 +14,7 @@ Another fundamental element at the start of this chapter is the following distin
 ## Emergence of Linked Data
 In the past few years, the Linked Data approach has become increasingly common in both the public and private sector. This chapter describes initiatives in the public sector and private sector and one initiative that occupies the ground between the two: the FAIR movement.
 
-## Public sector
+## Public Sector
 The cultural sector has always been a pioneer within the public sector. The Europeana project (launched in 2008) was ground-breaking: Today, Europeana Collections offers access to more than 50 million digitised items - books, music, art and more - with advanced search and filter functions to simplify the search process. As in other sectors, here too, it started with the development of the models in which the metadata of collections could be described. Other cultural institutions have expressed different models in Linked Data, for example the Royal Netherlands Library with the Dutch Thesaurus of Authors’ names and the Cultural Heritage Agency among others with its Archaeological Key Register.
 
 In the field of building and infrastructure, so-called Object Type Libraries (OTLs) are a well-known phenomenon. An OTL is a type of semantic library within an organisation. ProRail and Rijkswaterstaat are well-known organisations that employ such libraries. There there is COINS, another important Linked Data based standard, intended for the exchanging of BIM models.
@@ -22,7 +22,7 @@ Organisations in the geographical information sector were also early adopters, w
 
 These are just some of the many initiatives in the public sector, for example in agriculture and the organisations cooperating in the immigration process. Equally, the educational sector has taken numerous steps towards Linked Data based on ROSA, in which once again the semantic models are the starting point. There is not sufficient space in this chapter to list them all.
 
-## Private sector
+## Private Sector
 Linked Data developments are taking place at every level in the private sector: at the level of sector and chain processes, in individual companies and in specific business processes.
 
 There are sectors and communities in the private sector in which the role of Linked Data is constantly growing, but for the time being mainly in the form of a reconnaissance phase. The private sector above all appears curious about the huge volume of work being carried out in the academic world in the field of semantic technologies and what this could mean in real terms for addressing their problems.
@@ -72,7 +72,7 @@ The use of Linked Data is subject to the well-known network effect. The followin
 
 Go to the website of Platform Linked Data Nederland ([www.pldn.nl](https://www.pldn.nl/)) for more information about how Linked Data can be used.
 
-## Impact on standardisation and management
+## Impact on Standardisation and Management
 Originally, BOMOS made no real distinction between the types of semantic standards. It is applicable to both the conventional approach and the Linked Data approach. However, there is certainly a clear difference between the two in terms of the precise structuring of the activities. It was always quite a challenge to implement the BOMOS model because each context requires a custom approach. With the Linked Data approach to semantic standards, new challenges have also emerged.
 
 Below we list a number of the challenges and lessons learned from the FIT with Ontologies innovation programme within the temporary employment sector. The order roughly runs from development phase to management phase.
@@ -86,7 +86,7 @@ The management organisation must have sufficient expertise in these technologies
 
 Training is also essential if the user community was already used to using standards for information exchange before making the switch to Linked Data. In that situation, the users and even the managers are used to thinking in terms of the old technology stack and the methods used for data exchange. In those cases, the switch to the Linked Data approach is often treated as a change in syntax, while in reality it also needs a new approach to overall thinking. This applies both to the development phase and the actual application of the semantic standards. Without this, during the development phase, you run the risk that the status quo will have too much of an influence on how the ontology is modelled, resulting in impoverishment of the model’s semantics. If the old thought processes are applied, the result is cumbersome approaches to requesting or exchanging data, which in turn leads to impoverishment of the semantics of the data. For example, the managers of the Key Register of Addresses and Buildings (BAG) saw that many users also unintentionally requested the entire history of the data, with their data request.  
 
-## Selecting a compromise
+## Selecting a Compromise
 It should be remembered that the choices available are not only making the complete switch to Linked Data, or leaving everything as it was. Conceivably there are gradations or intermediate steps.
 
 One technology that plays a vital role in the switch is RML (RDF Mapping Language), developed by a team at the University of Ghent. Using RML, it is possible to transform semi-structured data like JSON, XML and CSV into Linked Data. You do this by first writing down the RML rules that must be applied to your data. You then feed these RML rules plus the original data into a so-called RMLMapper, which converts them into Linked Data triples.
@@ -106,7 +106,7 @@ Nevertheless, part of the domain description is modelled in its own ontology. Th
 
 Not every request for change will result in changes in the common ontology. It is sometimes better to develop an extension, which is then used by the part of the user community that has most to benefit from its use. Ontologies and other Linked Data standards were designed precisely for that purpose. For you as manager, the issue is to make these extensions explicit and accessible to the users. Before carrying out your own checks and analyses on those expansions.
 
-## User analysis
+## User Analysis
 In the FIT with Ontologies project, a web application is used to click together message definitions from the SETU ontology. These specific message definitions may look different, but all comply with the ontology and can be uniformly translated to facts from that ontology. Storing these different message definitions centrally means that detailed user analysis is possible, comparable to the code coverage concept from software engineering. This term refers to identifying which parts (e.g. concepts, relationships) of an ontology are actually used in which messages, and by whom, together with the related trends.  Findings from code coverage tests provide important clues for further development and can support discussions about the standard, with real user data.  
 
 ## Tools
