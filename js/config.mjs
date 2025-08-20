@@ -1,4 +1,6 @@
-var respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   alternateFormats: [ { 
         "label" : "pdf",
         "uri" : "BOMOS-LinkedData.pdf"
@@ -30,4 +32,4 @@ var respecConfig = {
   shortName: "linkeddata",
   specStatus: "WV",
   specType: "HR"
-};
+});
