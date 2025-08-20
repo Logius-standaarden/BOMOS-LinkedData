@@ -29,6 +29,7 @@ loadRespecWithConfiguration({
   pubDomain: "bomos",
   publishDate: "2022-06-07",
   publishVersion: "3.0.0",
+  prevVersion: [],
   shortName: "linkeddata",
   specStatus: "WV",
   specType: "HR"
