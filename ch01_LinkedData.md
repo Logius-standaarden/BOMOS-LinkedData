@@ -118,7 +118,7 @@ Hier zijn een aantal hulpmiddelen die voor beheerders van gemeenschappelijke ont
 | [Pool Party](https://www.poolparty.biz/)                                     | Semantic Web Company GmbH              | Knowledge management, data analytics & content organization                         |
 | [Protégé](https://protege.stanford.edu/)                                     | Stanford University School of Medicine | Ontology editor (gratis en open source)                                               |
 | [Semantic Treehouse](https://www.semantic-treehouse.nl/)                     | TNO                                    | Publicatie- en beheeromgeving voor gezamenlijke ontologiën en andere datamodellen     |
-| [TopBraid Composer](https://www.topquadrant.com/products/TopBraid-composer/) | TopQuadrant                            | Integrated Development Environment (IDE) voor Semantic Web, inclusief ontology editor |
+| [TopBraid Composer](https://topbraidcomposer.org/html/) | TopQuadrant                            | Integrated Development Environment (IDE) voor Semantic Web, inclusief ontology editor |
 | [VocBench](https://op.europa.eu/en/web/eu-vocabularies/vocbench)               | EU Publicatiebureau                    | Open-source publicatie- en beheeromgeving van meertalige vocabulaires                 |
 | [Matey](https://rml.io/yarrrml/matey/)               | Universiteit Gent | Matey is een browsergebaseerde editor waarmee je YARRRML-regels kunt schrijven.                |
 
