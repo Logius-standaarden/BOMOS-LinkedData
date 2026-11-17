@@ -9,12 +9,12 @@ loadRespecWithConfiguration({
   editors: [ 
       { 
         "company" : "Logius",
-        "companyURL" : "https://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Gül Işik"
       },
       { 
         "company" : "Logius",
-        "companyURL" : "https://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Edwin Wisse"
       }
     ],
