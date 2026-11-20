@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/"><img alt="Gepubliceerde versie 2.0.0" src="https://img.shields.io/badge/Gepubliceerd-2.0.0-0B71CE?style=flat-square"></a>
+  <a href="https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata/"><img alt="Gepubliceerde versie 3.0.0" src="https://img.shields.io/badge/Gepubliceerd-3.0.0-0B71CE?style=flat-square"></a>
 </p>
 
 <p align="center">
